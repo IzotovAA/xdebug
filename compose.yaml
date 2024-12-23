@@ -1,0 +1,29 @@
+services:
+  nginx:
+    image: nginx:alpine3.20
+    ports:
+      - "8080:80"
+    volumes:
+      - ./docker/nginx/conf/:/etc/nginx/conf.d/
+      - ./docker/nginx/log/:/var/log/nginx/
+      - ./app:/var/www
+    depends_on:
+      - php
+    networks:
+      - app_net
+
+  php:
+    build: docker/php
+    ports:
+      - "9000:9003"
+    volumes:
+      - ./app:/var/www/
+    networks:
+      - app_net
+    environment:
+      PHP_IDE_CONFIG: "serverName=Docker"
+
+networks:
+  app_net:
+    name: debugger_net
+    driver: bridge

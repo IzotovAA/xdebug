@@ -1,0 +1,8 @@
+.env
+
+/.idea
+
+app/vendor/
+docker/nginx/log/
+
+*.cache

@@ -1,0 +1,54 @@
+[1] Log opened at 2024-12-23 08:52:11.836250
+[1] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.1'
+[1] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[1] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[1] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[1] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 172.17.0.1:9003.
+[1] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 172.17.0.1:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[1] Log closed at 2024-12-23 08:52:12.037331
+
+[1] Log opened at 2024-12-23 08:55:16.539370
+[1] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.1'
+[1] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[1] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[1] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[1] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 172.17.0.1:9003.
+[1] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 172.17.0.1:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[1] Log closed at 2024-12-23 08:55:16.740759
+
+[1] Log opened at 2024-12-23 08:59:54.346636
+[1] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.1'
+[1] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[1] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[1] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[1] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 172.17.0.1:9003.
+[1] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 172.17.0.1:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[1] Log closed at 2024-12-23 08:59:54.548653
+
+[1] Log opened at 2024-12-23 09:02:28.799857
+[1] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.1'
+[1] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[1] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[1] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[1] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 172.17.0.1:9003.
+[1] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 172.17.0.1:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[1] Log closed at 2024-12-23 09:02:29.001781
+
+[1] Log opened at 2024-12-23 09:08:03.903272
+[1] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.1'
+[1] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[1] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[1] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[1] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 172.17.0.1:9003.
+[1] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 172.17.0.1:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[1] Log closed at 2024-12-23 09:08:04.104500
+
+[1] Log opened at 2024-12-23 09:15:17.260514
+[1] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.1'
+[1] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[1] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[1] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[1] [Step Debug] WARN: Could not discover client host through HTTP headers, connecting to configured address/port: 172.17.0.1:9003.
+[1] [Step Debug] ERR: Time-out connecting to debugging client, waited: 200 ms. Tried: 172.17.0.1:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[1] Log closed at 2024-12-23 09:15:17.462253
+
